@@ -8,8 +8,8 @@ A Discord bot that randomizes the nicknames of everyone on a server. Originally 
 
 Create a `.env` file in the project directory and populate it like so:
 
-`DISCORD_TOKEN='{token-name-here}'`
-`DISCORD_GUILD='{guild-name-here}'`
+`DISCORD_TOKEN='{token-id-here}'`
+`DISCORD_GUILD='{guild-id-here}'`
 
 Then, simply run the bot from the terminal:
 
