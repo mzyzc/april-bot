@@ -13,7 +13,7 @@ Create a `.env` file in the project directory and populate it like so:
 
 Then, simply run the bot from the terminal:
 
-`./april-bot.py`
+`./april.py`
 
 ### On Discord
 
